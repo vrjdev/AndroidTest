@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String input=editText.getText().toString();
                 textView.setText(input);
+                //hello
             }
         });
     }
